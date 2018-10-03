@@ -1,6 +1,9 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+
+/* ./Decoder [input file]    */
+
 int main(int argc, char* argv[]) {
   FILE * pFile;
   long lSize;
